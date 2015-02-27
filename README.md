@@ -1,7 +1,7 @@
 Man-In-The-Middle Attack Tester
 ===============================
 
-A simple client/server package to test for man-in-the-middle attacks.
+A simple client/server package to practice the man-in-the-middle attack.
 
 
 Required packages
